@@ -1,0 +1,5 @@
+# Render deve usar PHP nativo, não Docker
+# Este arquivo garante que o Render não tente usar Docker automaticamente
+
+
+
